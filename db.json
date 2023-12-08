@@ -1,0 +1,19 @@
+{
+  "name": [
+    {
+      "id": 1,
+      "name": "ibrahim",
+      "age": 22,
+      "gender":"male",
+      "country":"egypt"
+    },
+    {
+      "id": 2,
+      "name": "sayed",
+      "age": 50,
+      "gender":"male",
+      "country":"france"
+    }
+  ]
+ 
+}
