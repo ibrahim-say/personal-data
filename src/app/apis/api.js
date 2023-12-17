@@ -5,7 +5,7 @@ import axios from "axios";
 export default async function getData(name){
   let res= await axios({
     method:"GET",
-    url:`http://localhost:3001/name`,
+    url:`https://server-six-mauve.vercel.app/name`,
     params:{
       name:name
     },

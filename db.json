@@ -13,6 +13,13 @@
       "age": 50,
       "gender":"male",
       "country":"france"
+    },
+    {
+      "id": 3,
+      "name": "abdo",
+      "age": 70,
+      "gender":"male",
+      "country":"france"
     }
   ]
  
